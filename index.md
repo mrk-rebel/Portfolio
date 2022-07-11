@@ -19,7 +19,7 @@ My contribution included the conceptualization of the project, its definition--a
 > *Graduate school group assignment.* 
 
 
-## <a href="[https://github.com/mrk-rebel/capstone](https://github.com/mrk-rebel/visualizations/blob/main/technical_report_sample.pdf)" rel="Technical Report">![gh](gh64.png)</a> Technical Report Sample
+## <a href="https://github.com/mrk-rebel/visualizations/blob/main/technical_report_sample.pdf" rel="Technical Report">![gh](gh64.png)</a> Technical Report Sample
 
 > I was tasked with comparing two counties for the expansion of a chain restaurant and making a recommendation while presenting the results in the form of an executive summary, a technical report and a recorded presentation. I used demographic data from Gale Business DemographicsNow, census survey, economic data from the Federal Reserve, counties and cities websites, Google maps, and Yelp to understand counties' populations and their consumption habits.
 > 
