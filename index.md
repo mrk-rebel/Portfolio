@@ -14,7 +14,7 @@ My contribution included the conceptualization of the project, its definition--a
 
 
 ## <a href="https://github.com/mrk-rebel/Milestone-II" rel="Predicting text difficulty with different learning frameworks and feature representations">![gh](gh64.png)</a> Predicting text difficulty with different learning frameworks and feature representations
-> This was first the data science project on which I worked with two other collaborators and it was a great way to practice file organization and delegating tasks. We ended up dealing with a collaborator that needed to step back after the first week and return in the last week, so the project became an exercise in absorbing extra workload, redistributing tasks, and re-integrating a collaborator near the deadline.
+> This was the first data science project on which I worked with two other collaborators and it was a great way to practice file organization and delegating tasks. We ended up dealing with a collaborator that needed to step back after the first week and return in the last week, so the project became an exercise in absorbing extra workload, redistributing tasks, and re-integrating a collaborator near the deadline.
 > 
 > *Graduate school group assignment.* 
 
